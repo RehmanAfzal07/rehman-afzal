@@ -1,0 +1,30 @@
+:root{
+  --bg-color: #fff;
+  --text-color: #000;
+}
+
+[data-theme='dark']{
+  --bg-color: #3f3f3f;
+  --text-color: #fff;
+}
+.App {
+  text-align: center;
+  background-color: slateblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  padding: auto;
+}
+.buttons{
+ color: rgb(28, 236, 216);
+
+}
+
+
+
+
+
+  
+  
+  

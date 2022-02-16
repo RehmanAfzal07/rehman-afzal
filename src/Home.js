@@ -43,7 +43,7 @@ function Home() {
               width: "auto", hight: "auto%", marginLeft: "auto",
               background: "radial-gradient(circle at 50% 0,rgba(255,0,0,.5), rgba(255,0,0,0) 70.71%) radial-gradient(circle at 6.7% 75%, rgba(0,0,255,.5), rgba(0,0,255,0) 70.71%)",
               borderRadius: "50%"
-            }}  src="rehman.Afzal.jpg" />
+            }} alt="my pic" src="rehman.Afzal.jpg" />
           </div>
          
           <div class="col">

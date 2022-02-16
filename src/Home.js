@@ -39,7 +39,7 @@ function Home() {
         </div>
         <div class="row">
           <div class="col">
-            <img alt="personal picture"  style={{ 
+            <img  style={{ 
               width: "auto", hight: "auto%", marginLeft: "auto",
               background: "radial-gradient(circle at 50% 0,rgba(255,0,0,.5), rgba(255,0,0,0) 70.71%) radial-gradient(circle at 6.7% 75%, rgba(0,0,255,.5), rgba(0,0,255,0) 70.71%)",
               borderRadius: "50%"
@@ -67,42 +67,12 @@ function Home() {
      
      
       </div>
-      {/* { <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
-        <ol className="carousel-indicators">
-          <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <div className="carousel-inner">
-          <div className="carousel-item active">
-            <img className="d-block w-50" src="pic1.jpg" />
-          </div>
-          <div className="carousel-item">
-            <img className="d-block w-100" src="pic4.jpg" alt="Second slide" />
-          </div>
-          <div className="carousel-item">
-            <img className="d-block w-100" src="pic5.jpg" alt="Third slide" />
-          </div>
-        </div>
-        <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span className="sr-only">Previous</span>
-        </a>
-        <a className="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span className="carousel-control-next-icon" aria-hidden="true"></span>
-          <span className="sr-only">Next</span>
-        </a>
-      </div> }                */}
-
-
-
+    
 
       <div>
         <Contact />
       </div>
     </div>
-
-
 
   )
 }

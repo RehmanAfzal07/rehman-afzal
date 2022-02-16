@@ -25,7 +25,7 @@ function Certifications() {
           }}>Certifications</h2>
             <div className="card-deck">
   <div className="card">
-    <img className="card-img-top" src="mean.PNG" alt="Card image of FULL STACK/MEAN DEV Course" />
+    <img className="card-img-top" src="mean.PNG" alt="MEAN/Full Stack Dev course" />
     <div className="card-body">
       <h5 className="card-title">MEAN/Full-Stack-DEV </h5>
       <p className="card-text">This course is offered by PSEB(Pakistan Export Board with collaboration of CORVIT System Lahore)</p>
@@ -36,7 +36,7 @@ function Certifications() {
     </div>
   </div>
   <div className="card">
-    <img className="card-img-top" src="Rehman-Afzal_ccna.jpg" alt="Card image of CCNA Course" />
+    <img className="card-img-top" src="Rehman-Afzal_ccna.jpg" alt="CCNA course" />
     <div className="card-body">
       <h5 className="card-title">CCNA </h5>
       <p className="card-text">This course is offered by PSEB(Pakistan Export Board with collaboration of CORVIT System Lahore)</p>
@@ -47,7 +47,7 @@ function Certifications() {
     </div>
   </div>
   <div className="card">
-    <img className="card-img-top" src="Rehman-Afzal_wp.jpg" alt="Card image of Wordpress Course" />
+    <img className="card-img-top" src="Rehman-Afzal_wp.jpg" alt="Wordpress course" />
     <div className="card-body">
       <h5 className="card-title">WordPress</h5>
       <p className="card-text">WordPress is offered by Minisrty of Information Technology & Telecom by the collaboration of Virtual University.</p>
@@ -57,7 +57,7 @@ function Certifications() {
     </div>
   </div>
   <div className="card">
-    <img className="card-img-top" src="Rehman-Afzal_fr.jpg" alt="Card image of Freelancing Course" />
+    <img className="card-img-top" src="Rehman-Afzal_fr.jpg" alt=" Freelancing course" />
     <div className="card-body">
       <h5 className="card-title">Freelancing</h5>
       <p className="card-text">Freelancing is offered by Minisrty of Information Technology & Telecom by the collaboration of Virtual University.</p>

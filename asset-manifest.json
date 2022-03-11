@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Brehman-afzal%7D/static/css/main.abe8614b.chunk.css",
+    "main.js": "/%7Brehman-afzal%7D/static/js/main.2775d55c.chunk.js",
+    "main.js.map": "/%7Brehman-afzal%7D/static/js/main.2775d55c.chunk.js.map",
+    "runtime-main.js": "/%7Brehman-afzal%7D/static/js/runtime-main.f3fc8058.js",
+    "runtime-main.js.map": "/%7Brehman-afzal%7D/static/js/runtime-main.f3fc8058.js.map",
+    "static/js/2.a34bfb20.chunk.js": "/%7Brehman-afzal%7D/static/js/2.a34bfb20.chunk.js",
+    "static/js/2.a34bfb20.chunk.js.map": "/%7Brehman-afzal%7D/static/js/2.a34bfb20.chunk.js.map",
+    "static/js/3.cc33c7ee.chunk.js": "/%7Brehman-afzal%7D/static/js/3.cc33c7ee.chunk.js",
+    "static/js/3.cc33c7ee.chunk.js.map": "/%7Brehman-afzal%7D/static/js/3.cc33c7ee.chunk.js.map",
+    "index.html": "/%7Brehman-afzal%7D/index.html",
+    "static/css/main.abe8614b.chunk.css.map": "/%7Brehman-afzal%7D/static/css/main.abe8614b.chunk.css.map",
+    "static/js/2.a34bfb20.chunk.js.LICENSE.txt": "/%7Brehman-afzal%7D/static/js/2.a34bfb20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3fc8058.js",
+    "static/js/2.a34bfb20.chunk.js",
+    "static/css/main.abe8614b.chunk.css",
+    "static/js/main.2775d55c.chunk.js"
+  ]
+}
